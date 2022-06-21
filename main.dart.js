@@ -37216,7 +37216,7 @@ $S:0}
 A.Gp.prototype={
 I(a,b){return new A.y7(new A.ZG(),B.Id,null)}}
 A.ZG.prototype={
-$2(a,b){return new A.n7(B.Gh,"Book Shop",A.als(B.vX,null,"Poppins",B.t6,B.k),!1,!1,null)},
+$2(a,b){return new A.n7(B.Gh,"Book Shop UI",A.als(B.vX,null,"Poppins",B.t6,B.k),!1,!1,null)},
 $S:355}
 A.mb.prototype={
 ap(){return new A.Kx(A.b([],t.G),B.p)}}
